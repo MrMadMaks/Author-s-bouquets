@@ -1,0 +1,112 @@
+.logo {
+    width: 100px;
+    height: 32.28px;
+    background: url(../icons/Лого.svg) center center/cover no-repeat;
+}
+
+.delivery-img {
+    width: 82px;
+    height: 52px;
+    background: url(../icons/Group\ 9.svg) center center/cover no-repeat;
+}
+
+.freshness-img {
+    width: 52px;
+    height: 52px;
+    background: url(../icons/bouquet\ 1.svg) center center/cover no-repeat;
+}
+
+.fotos-img {
+    width: 58.6px;
+    height: 52px;
+    background: url(../icons/Group.svg) center center/cover no-repeat;
+}
+
+.arrow-left {
+    width: 50px;
+    height: 15px;
+    background: url(../icons/Arrow\ 2.svg) center center/cover no-repeat;
+}
+
+.arrow-right {
+    width: 50px;
+    height: 15px;
+    background: url(../icons/Arrow\ 1.svg) center center/cover no-repeat;
+}
+
+.item1-img {
+    width: 66.08px;
+    height: 52px;
+    background: url(../icons/1step.svg) center center/cover no-repeat;
+}
+
+.item2-img {
+    width: 37.49px;
+    height: 52px;
+    background: url(../icons/2step.svg) center center/cover no-repeat;
+}
+
+.item3-img {
+    width: 69.93px;
+    height: 52px;
+    background: url(../icons/3step.svg) center center/cover no-repeat;
+}
+
+.item4-img {
+    width: 82.21px;
+    height: 52px;
+    background: url(../icons/4step.svg) center center/cover no-repeat;
+}
+
+.inst {
+    width: 20.02px;
+    height: 20px;
+    background: url(../icons/instagram_icon.svg) center center/cover no-repeat;
+}
+
+.face {
+    width: 11.5px;
+    height: 20px;
+    background: url(../icons/facebook_icon.svg) center center/cover no-repeat;
+}
+
+.twit {
+    width: 25.76px;
+    height: 20px;
+    background: url(../icons/twitter_icon.svg) center center/cover no-repeat;
+}
+
+.map {
+    position: relative;
+    width: 1440px;
+    height: 644.1px;
+    background: url(../img/map.jpg) center center/cover no-repeat;
+}
+
+.menu2 {
+    background-color: #ae7c78;
+}
+
+.logo2 {
+    width: 100px;
+    height: 32.28px;
+    background: url(../icons/logo2.svg) center center/cover no-repeat;
+}
+
+.instw {
+    width: 20.02px;
+    height: 20px;
+    background: url(../icons/instagram_icon_white.svg) center center/cover no-repeat;
+}
+
+.facew {
+    width: 11.5px;
+    height: 20px;
+    background: url(../icons/facebook_icon_white.svg) center center/cover no-repeat;
+}
+
+.twitw {
+    width: 25.76px;
+    height: 20px;
+    background: url(../icons/twitter_icon_white.svg) center center/cover no-repeat;
+}
